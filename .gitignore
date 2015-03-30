@@ -1,0 +1,16 @@
+#SBT
+target
+project/target
+project/project
+.ivycache
+
+# Mac
+.DS_Store
+
+# IntelliJ
+.idea
+.idea_modules
+*.iml
+*.ipr
+*.iws
+.history
